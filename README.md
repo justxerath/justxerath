@@ -1,5 +1,25 @@
 ### Selamlar👋
 
+const xerath = {
+    pronouns: "He" | "Him",
+    code: ["Javascript","Html","Css"],
+    askMeAbout: ["Front-end"],
+    technologies: {
+        mobileApp: ["Blank"],
+        frontEnd: {
+            js: ["nodejs"],
+            css: ["semantic.ui", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            php: ["laravel"]
+        },
+        devOps: ["AWS"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase"]
+    },
+};
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=justxerath&theme=dark&border_radius=3.9&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
