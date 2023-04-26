@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on discord bot
 - 🌱 I’m currently learning vuejs, react..
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=justxerath&theme=dark&border_radius=3.9&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
 <!--
