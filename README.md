@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on discord bot
 - 🌱 I’m currently learning vuejs, react..
+```js const justxerath
 
 <!--
 **justxerath/justxerath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
