@@ -5,7 +5,24 @@
 
 - 🔭 I’m currently working on discord bot
 - 🌱 I’m currently learning vuejs, react..
-```js const justxerath
+```js const justxerath = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "PHP","Html", "Css", "TypeScript"],
+    askMeAbout: ["web dev", "designer"],
+    technologies: {
+        frontEnd: {
+            js: ["react, nodejs"],
+            css: ["semantic.ui", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            php: ["laravel"]
+        },
+        devOps: ["AWS", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase"]
+    },
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentProject: "I’m currently working on discord bot and website...",
+};
 
-<!--
-**justxerath/justxerath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
