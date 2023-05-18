@@ -13,7 +13,7 @@
     technologies: {
         frontEnd: {
             js: ["react, nodejs"],
-            css: ["semantic.ui", "bootstrap"]
+            css: ["semantic.ui","tailwind.ui", "bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],
