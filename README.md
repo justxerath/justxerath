@@ -3,8 +3,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=justxerath&theme=dark&border_radius=3.9&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on discord bot
-- 🌱 I’m currently learning vuejs, react..
 ```js 
     const justxerath = {
     pronouns: "He" | "Him",
@@ -25,6 +23,7 @@
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentProject: "I’m currently working on discord bot and website...",
+    learning: ["vuejs", "reactjs", "angular", "nextjs"]
 };
 ```
 
