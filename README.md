@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on discord bot
 - 🌱 I’m currently learning vuejs, react..
-```js const justxerath = {
+```js 
+    const justxerath = {
     pronouns: "He" | "Him",
     code: ["Javascript", "PHP","Html", "Css", "TypeScript"],
     askMeAbout: ["web dev", "designer"],
@@ -25,4 +26,5 @@
     architecture: ["Progressive web applications", "Single page applications"],
     currentProject: "I’m currently working on discord bot and website...",
 };
+```
 
